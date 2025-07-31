@@ -17,4 +17,4 @@ This approach to login page design can make users feel more connected to the bra
 
 ## SCREENSHOT
 
-![ive screen](https://pin.it/5NMzRjEQr)
+![screenshot](https://pin.it/5NMzRjEQr)
