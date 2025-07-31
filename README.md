@@ -15,6 +15,9 @@ The album's visual theme combines simplicity with artistic flair, making the log
 
 This approach to login page design can make users feel more connected to the brand and provide a memorable first impression.
 
-## SCREENSHOT
+## Frame No.1
 
-![screenCapture](./1.png)
+![no1](./1.png)
+
+## Frame No.2
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/a69c096a-8f4f-4016-acaa-eb524781e02a" />
