@@ -17,4 +17,4 @@ This approach to login page design can make users feel more connected to the bra
 
 ## SCREENSHOT
 
-![screenCapture](holly-login.mp4)
+![screenCapture](./1.png)
