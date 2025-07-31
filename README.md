@@ -20,4 +20,5 @@ This approach to login page design can make users feel more connected to the bra
 ![no1](./1.png)
 
 ## Frame No.2
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/a69c096a-8f4f-4016-acaa-eb524781e02a" />
+[<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/a69c096a-8f4f-4016-acaa-eb524781e02a" />
+](https://pin.it/12qzrrsUH)
